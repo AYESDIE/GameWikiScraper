@@ -1,0 +1,2 @@
+# DailyGameWikiScraper
+DailyGameWikiScraper
